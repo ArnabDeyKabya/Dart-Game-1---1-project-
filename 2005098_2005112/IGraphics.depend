@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649748154 source:e:\igraphics-master\2005098_2005112\imain2.cpp
+	"iGraphics.h"
+	<string>
+	<math.h>
+	<stdlib.h>
+
